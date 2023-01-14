@@ -1,0 +1,22 @@
+.section-main {
+    background-image: url("../img/jumbotron.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    position: relative;
+
+    .ms-btn-series {
+        background-color: #0282f9;
+        position: absolute;
+        left: 130px;
+        bottom: -20px;
+        color: white;
+        height: 40px;
+        width: 200px;
+        border: none;
+        font-size: 18px;
+        border-radius: 5px;
+        padding: 10px 25px;
+    }
+}
