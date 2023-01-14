@@ -41,6 +41,7 @@
     {{-- Section Bar Buy --}}
     <section class="section-buy">
         <div class="container">
+            {{-- Contenitore card buy --}}
             <div class="ms-row-bar-buy d-flex">
                 <div class="ms-card-bar-buy d-flex">
                     <div class="ms-img-bar-buy py-5">
@@ -87,6 +88,7 @@
                     
                 </div>
             </div>
+            {{-- Contenitore card buy --}}
         </div>
     </section>
 @endsection
