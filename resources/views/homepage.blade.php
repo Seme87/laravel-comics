@@ -10,4 +10,9 @@
             <button class=" ms-btn-series">CURRENT SERIES</button>
         </div>
     </section>
+    <section>
+        <div class="container">
+            <h2></h2>
+        </div>
+    </section>
 @endsection
