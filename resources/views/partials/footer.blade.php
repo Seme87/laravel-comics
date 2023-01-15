@@ -67,9 +67,25 @@
     {{-- Footer top --}}
 
     {{-- Footer Bottom --}}
-    <section class="footer-bottom">
-    
+    <section class="footer-bottom py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <button class="ms-btn-fb p-2">SIGN-UP NOW</button>
+                </div>
+                <div class="col-6 ms-col-icon d-flex align-items-center">
+                    <ul class="d-flex align-items-center mb-0">
+                        <li><h5>FOLLOW US</h5></li>
+                        <li><a href="#"><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt=""></a></li>
+                        <li><a href="#"><img src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt=""></a></li>
+                        <li><a href="#"><img src="{{ Vite::asset('resources/img/footer-youtube.png') }}" alt=""></a></li>
+                        <li><a href="#"><img src="{{ Vite::asset('resources/img/footer-pinterest.png') }}" alt=""></a></li>
+                        <li><a href="#"><img src="{{ Vite::asset('resources/img/footer-periscope.png') }}" alt=""></a></li>
 
+                    </ul>
+                </div>
+            </div>
+        </div>
     </section>
     {{-- Footer Bottom --}}
 </footer>
