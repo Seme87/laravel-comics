@@ -91,4 +91,8 @@
             {{-- Contenitore card buy --}}
         </div>
     </section>
+    {{-- Section Bar Buy --}}
+
+
+
 @endsection
